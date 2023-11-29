@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+header{
+  background-image: url("../public/Bone_fracture.png");
+  height:100vh;
+  background-size: cover;
+  width: 100%;
+}
